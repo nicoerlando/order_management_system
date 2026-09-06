@@ -1,5 +1,6 @@
 package com.rapi.message;
 
+import com.rapi.message.dto.MessageRequest;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
